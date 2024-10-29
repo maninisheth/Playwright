@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11557","Test 1:Verify three coureses should enrolled successfully","chromium","Tue Oct 29 11:46:32 GMT 2024","passed","Tue Oct 29 11:46:43 GMT 2024","","coursesTest.spec.ts","",""
+"","10577","Test 3:Verify error message when Password length is less than minimum 6 characters","chromium","Tue Oct 29 11:46:32 GMT 2024","passed","Tue Oct 29 11:46:42 GMT 2024","","signupTest.spec.ts","",""
+"","10131","Test 2:Verify user should get error message if user already regiestered","chromium","Tue Oct 29 11:46:32 GMT 2024","passed","Tue Oct 29 11:46:42 GMT 2024","","signupTest.spec.ts","",""
+"","11210","Test 1:Verify user should sign up successfully with valid data","chromium","Tue Oct 29 11:46:32 GMT 2024","passed","Tue Oct 29 11:46:43 GMT 2024","","signupTest.spec.ts","",""
